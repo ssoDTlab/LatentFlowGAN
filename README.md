@@ -1,9 +1,8 @@
 ## A Training Method for Improving Image Diversity in Generative Adversarial Networks Using a Perceptual Cosine Similarity Loss(LatentFlowGAN) <br> <sub>Official PyTorch implementation of Journal of the Korea Institute of Information and Communication Engineering, vol. 29, issue 10, 2025 </sub>
 
-### These formulas describe the **latent space continuity**:
+### These formulas describe the latent space continuity:
 
-1. **Squared Distance**
-
+### 1. Squared Distance
 
 $$
 {\lVert z_1 - z_2 \rVert}^2_2 = \sum_{i=1}^{100} \bigl(z_{1,i} - z_{2,i}\bigr)^2
@@ -11,7 +10,7 @@ $$
 
 - This is the Euclidean distance squared between two 100-dimensional latent vectors.
 
-2. **Distribution**
+### 2. Distribution
    
 $$
 \lVert {z_1 - z_2 \rVert}^2_2 \sim 2 \chi^2(100)
@@ -19,7 +18,7 @@ $$
 
 - The squared distance follows twice a chi-square distribution with 100 degrees of freedom.
 
-3. **Expected Distance**
+### 3. Expected Distance
    
 $$
 \mathbb{E} \[\   {\lVert z_1 - z_2 \rVert}_2 \] = \sqrt{2} \cdot \mathbb{E}[X] = 2 \cdot \frac{\Gamma(50.5)}{\Gamma(50)} \approx 14
