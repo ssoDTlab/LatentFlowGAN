@@ -1,4 +1,4 @@
-## A Training Method for Improving Image Diversity in Generative Adversarial Networks Using a Perceptual Cosine Similarity Loss(LatentFlowGAN) <br> <sub>Official PyTorch implementation of Journal of the Korea Institute of Information and Communication Engineering, vol. 29, issue 10, 2025 </sub>
+## A Training Method for Improving Image Diversity in Generative Adversarial Networks Using a Perceptual Cosine Similarity Loss(LatentFlowGAN) <br> <sub>Official PyTorch implementation of Journal of the Korea Institute of Information and Communication Engineering, 2025 </sub>
 
 ### These formulas describe the latent space continuity:
 
