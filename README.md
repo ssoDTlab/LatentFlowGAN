@@ -19,7 +19,11 @@ $$
 - The squared distance follows twice a chi-square distribution with 100 degrees of freedom.
 
 __3. Expected Distance__
-   
+
+$$
+\mathbb{E}(X) = \sqrt{2} \frac{ \Gamma \left( \frac{n+1}{2} \right) }{ \Gamma \left( \frac{n}{2} \right) }
+$$
+
 $$
 \mathbb{E} \[\   {\lVert z_1 - z_2 \rVert}_2 \] = \sqrt{2} \cdot \mathbb{E}[X] = 2 \cdot \frac{\Gamma(50.5)}{\Gamma(50)} \approx 14
 $$
