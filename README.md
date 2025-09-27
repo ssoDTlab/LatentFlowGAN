@@ -15,8 +15,8 @@ $$\mathbb{E}\left[ \| z_1 - z_2 \| \right] \approx 14$$
 The mean distance is about 14, showing that two random latent points are typically far apart, which supports the latent space’s smooth semantic continuity.
 
 <p align="center">
-  <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/db0a2f52-271d-438b-be4d-0933a9468cf8" />
-  <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/0beaf798-8521-4fff-bcaf-34f932f6db34" />
+  <img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/db0a2f52-271d-438b-be4d-0933a9468cf8" />
+  <img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/0beaf798-8521-4fff-bcaf-34f932f6db34" />
 </p>
 
 ### <b>Abstract</b><br>
