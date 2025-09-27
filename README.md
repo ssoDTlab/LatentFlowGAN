@@ -2,7 +2,8 @@
 Engineering, vol. 29, issue 10, 2025 </sub>
 <p align="center">
   <img width="380" height="400" alt="Image1" src="https://github.com/user-attachments/assets/5382e1c0-bf6d-4f85-8a03-a146083dd52a" />
-  <img width="290" height="400" alt="Image2" src="https://github.com/user-attachments/assets/71fc1596-8deb-49e7-9ab9-5e8ee7cb2448" />
+  <img width="290" height="400" alt="Image" src="https://github.com/user-attachments/assets/db0a2f52-271d-438b-be4d-0933a9468cf8" />
+
 </p>
 
 ### <b>Abstract</b><br>
