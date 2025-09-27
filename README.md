@@ -16,6 +16,7 @@ The mean distance is about 14, showing that two random latent points are typical
 
 <p align="center">
   <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/db0a2f52-271d-438b-be4d-0933a9468cf8" />
+  <img width="530" height="530" alt="Image" src="https://github.com/user-attachments/assets/0beaf798-8521-4fff-bcaf-34f932f6db34" />
 </p>
 
 ### <b>Abstract</b><br>
