@@ -1,4 +1,4 @@
-## A Training Method for Improving Image Diversity in Generative Adversarial Networks Using a Perceptual Cosine Similarity Loss(LatentFlowGAN) <br> <sub>Journal of the Korea Institute of Information and Communication
+## A Training Method for Improving Image Diversity in Generative Adversarial Networks Using a Perceptual Cosine Similarity Loss(LatentFlowGAN) <br> <sub>Official PyTorch implementation of Journal of the Korea Institute of Information and Communication
 Engineering, vol. 29, issue 10, 2025 </sub>
 <p align="center">
   <img width="380" height="400" alt="Image1" src="https://github.com/user-attachments/assets/5382e1c0-bf6d-4f85-8a03-a146083dd52a" />
