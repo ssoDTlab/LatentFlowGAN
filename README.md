@@ -33,8 +33,8 @@ $$
 ### Generated Image
 
 <p align="center">
-  <img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/db0a2f52-271d-438b-be4d-0933a9468cf8" />
-  <img width="450" height="450" alt="Image" src="https://github.com/user-attachments/assets/0beaf798-8521-4fff-bcaf-34f932f6db34" />
+  <img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/db0a2f52-271d-438b-be4d-0933a9468cf8" />
+  <img width="350" height="350" alt="Image" src="https://github.com/user-attachments/assets/0beaf798-8521-4fff-bcaf-34f932f6db34" />
 </p>
 
 ### <b>Abstract</b><br>
